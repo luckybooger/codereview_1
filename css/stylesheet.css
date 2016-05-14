@@ -12,8 +12,15 @@ h1 {
     color: #D40E0E;
 }
 
-img {
-    width: 520px;
-    height: auto;
+.flames {
+      width: 520px;
+      height: auto;
+      margin-bottom: 75px;
+}
 
+.lucy {
+      margin-right: 15px;
+      width: 100px;
+      height: auto;
+      float: left;
 }
