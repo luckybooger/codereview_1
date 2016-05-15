@@ -19,8 +19,12 @@ There are no known bugs within this portfolio page.
 
 ## Support and contact details
 
+<<<<<<< HEAD
 Please if you have any questions, comments, concerns, contact lucyblueglass@gmail.com.
 
+=======
+If you have any questions, comments or concerns please email: lucyblueglass@gmail.com.
+>>>>>>> 2387f4cdb8aa902e0476fda700d7e98881d78599
 ## Technologies Used
 
 HTML, CSS, and Bootstrap were used to create this web page.
