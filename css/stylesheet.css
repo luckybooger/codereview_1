@@ -13,9 +13,9 @@ h1 {
 
 
 .flames {
-      width: 520px;
-      height: auto;
-      margin-bottom: 75px;
+        width: 520px;
+        height: auto;
+        margin-bottom: 75px;
 }
 
 .lucy {
@@ -25,6 +25,22 @@ h1 {
       float: left;
 }
 
-.happy{
-      margin-top: 75px;
+.happy {
+        margin-top: 75px;
+}
+
+ol li {
+      margin: 18px 0;
+
+}
+
+ul li {
+      margin: 15px;
+
+}
+
+.border {
+        border: 2px solid #D40E0E;
+        margin-top: 10px;
+        margin-right: 20px;
 }
