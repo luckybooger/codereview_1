@@ -19,6 +19,7 @@ h1 {
 }
 
 .lucy {
+      display: block;
       margin-right: 15px;
       width: 100px;
       height: auto;
@@ -43,6 +44,10 @@ ul li {
         border: 2px solid #D40E0E;
         margin-top: 10px;
         margin-right: 20px;
+}
+
+#personal {
+          font-style: oblique;
 }
 
 .important {
